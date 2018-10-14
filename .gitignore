@@ -1,0 +1,255 @@
+Scripts/PeriodConverter.ex4
+Compile.log
+Compile.ps1
+IC3-HGSSCB.code-workspace
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+Experts/CloseOnNewsEA.ex4
+Experts/CloseOnNewsEA.mq4
+Experts/EAG Dynamo GEC-GPG Monitor v.1.5.ex4
+Experts/Holy Graily Candle Bob.ex4
+Experts/Holy Graily Candle Bob.mq4
+Experts/Holy_Graily_SS_Candle_Bob.ex4
+Experts/Ilan1.7Refact.ex4
+Experts/Ilan1.7Refact.mq4
+Experts/Myfxbook.ex4
+Experts/Slopey Candle Bob.ex4
+Experts/Slopey Candle Bob.mq4
+Experts/Slopey Peaky Bob.ex4
+Experts/Slopey_Peaky_Bob.ex4
+Experts/Slopey_Peaky_Bob.mq4
+Experts/TDesk.ex4
+Experts/lparams.txt
+Experts/mqlcache.dat
+Include/LibSSSRv5.mqh
+Include/MovingAverages.mqh
+Include/Object.mqh
+Include/StdLibErr.mqh
+Include/TDesk.mqh
+Include/WinUser32.mqh
+Include/stderror.mqh
+Include/stdlib.mqh
+Include/Arrays/Array.mqh
+Include/Arrays/ArrayChar.mqh
+Include/Arrays/ArrayDouble.mqh
+Include/Arrays/ArrayFloat.mqh
+Include/Arrays/ArrayInt.mqh
+Include/Arrays/ArrayLong.mqh
+Include/Arrays/ArrayObj.mqh
+Include/Arrays/ArrayShort.mqh
+Include/Arrays/ArrayString.mqh
+Include/Arrays/List.mqh
+Include/Arrays/Tree.mqh
+Include/Arrays/TreeNode.mqh
+Include/Canvas/Canvas.mqh
+Include/ChartObjects/ChartObject.mqh
+Include/ChartObjects/ChartObjectPanel.mqh
+Include/ChartObjects/ChartObjectsArrows.mqh
+Include/ChartObjects/ChartObjectsBmpControls.mqh
+Include/ChartObjects/ChartObjectsChannels.mqh
+Include/ChartObjects/ChartObjectsFibo.mqh
+Include/ChartObjects/ChartObjectsGann.mqh
+Include/ChartObjects/ChartObjectsLines.mqh
+Include/ChartObjects/ChartObjectsShapes.mqh
+Include/ChartObjects/ChartObjectsTxtControls.mqh
+Include/Charts/Chart.mqh
+Include/Controls/BmpButton.mqh
+Include/Controls/Button.mqh
+Include/Controls/CheckBox.mqh
+Include/Controls/CheckGroup.mqh
+Include/Controls/ComboBox.mqh
+Include/Controls/DateDropList.mqh
+Include/Controls/DatePicker.mqh
+Include/Controls/Defines.mqh
+Include/Controls/Dialog.mqh
+Include/Controls/Edit.mqh
+Include/Controls/Label.mqh
+Include/Controls/ListView.mqh
+Include/Controls/Panel.mqh
+Include/Controls/Picture.mqh
+Include/Controls/RadioButton.mqh
+Include/Controls/RadioGroup.mqh
+Include/Controls/Rect.mqh
+Include/Controls/Scrolls.mqh
+Include/Controls/SpinEdit.mqh
+Include/Controls/TimePicker.mqh
+Include/Controls/Wnd.mqh
+Include/Controls/WndClient.mqh
+Include/Controls/WndContainer.mqh
+Include/Controls/WndObj.mqh
+Include/Controls/res/CheckBoxOff.bmp
+Include/Controls/res/CheckBoxOn.bmp
+Include/Controls/res/Close.bmp
+Include/Controls/res/CloseDisable.bmp
+Include/Controls/res/CloseOff.bmp
+Include/Controls/res/CloseOn.bmp
+Include/Controls/res/DateDropOff.bmp
+Include/Controls/res/DateDropOn.bmp
+Include/Controls/res/Down.bmp
+Include/Controls/res/DownDisable.bmp
+Include/Controls/res/DownSmall.bmp
+Include/Controls/res/DownTransp.bmp
+Include/Controls/res/DropOff.bmp
+Include/Controls/res/DropOn.bmp
+Include/Controls/res/ExpandDisable.bmp
+Include/Controls/res/ExpandOff.bmp
+Include/Controls/res/ExpandOn.bmp
+Include/Controls/res/HelpDisable.bmp
+Include/Controls/res/HelpOff.bmp
+Include/Controls/res/HelpOn.bmp
+Include/Controls/res/Left.bmp
+Include/Controls/res/LeftDisable.bmp
+Include/Controls/res/LeftTransp.bmp
+Include/Controls/res/RadioButtonOff.bmp
+Include/Controls/res/RadioButtonOn.bmp
+Include/Controls/res/Restore.bmp
+Include/Controls/res/RestoreDisable.bmp
+Include/Controls/res/RestoreOff.bmp
+Include/Controls/res/RestoreOn.bmp
+Include/Controls/res/Right.bmp
+Include/Controls/res/RightDisable.bmp
+Include/Controls/res/RightTransp.bmp
+Include/Controls/res/SpinDec.bmp
+Include/Controls/res/SpinInc.bmp
+Include/Controls/res/ThumbHor.bmp
+Include/Controls/res/ThumbHorDisable.bmp
+Include/Controls/res/ThumbVert.bmp
+Include/Controls/res/ThumbVertDisable.bmp
+Include/Controls/res/Turn.bmp
+Include/Controls/res/TurnOff.bmp
+Include/Controls/res/TurnOn.bmp
+Include/Controls/res/Up.bmp
+Include/Controls/res/UpDisable.bmp
+Include/Controls/res/UpSmall.bmp
+Include/Controls/res/UpTransp.bmp
+Include/Controls/res/down_smoll.bmp
+Include/Controls/res/up_smoll.bmp
+Include/Files/File.mqh
+Include/Files/FileBin.mqh
+Include/Files/FilePipe.mqh
+Include/Files/FileTxt.mqh
+Include/Indicators/BillWilliams.mqh
+Include/Indicators/Custom.mqh
+Include/Indicators/Indicator.mqh
+Include/Indicators/Indicators.mqh
+Include/Indicators/Oscilators.mqh
+Include/Indicators/Series.mqh
+Include/Indicators/TimeSeries.mqh
+Include/Indicators/Trend.mqh
+Include/Indicators/Volumes.mqh
+Include/Strings/String.mqh
+Include/Tools/DateTime.mqh
+Indicators/ATR.ex4
+Indicators/ATR.mq4
+Indicators/Accelerator.ex4
+Indicators/Accelerator.mq4
+Indicators/Accumulation.ex4
+Indicators/Accumulation.mq4
+Indicators/AllAverages TD.ex4
+Indicators/AllAverages TD.mq4
+Indicators/Alligator.ex4
+Indicators/Alligator.mq4
+Indicators/BR549.ex4
+Indicators/Baluda SuperSlope TD.ex4
+Indicators/Baluda SuperSlope TD.mq4
+Indicators/Baluda.SuperSlope.v.2.2.ex4
+Indicators/Bands.ex4
+Indicators/Bands.mq4
+Indicators/Bears.ex4
+Indicators/Bears.mq4
+Indicators/Bulls.ex4
+Indicators/Bulls.mq4
+Indicators/CCI.ex4
+Indicators/CCI.mq4
+Indicators/GannHiLo TD.ex4
+Indicators/GannHiLo TD.mq4
+Indicators/Heiken Ashi.ex4
+Indicators/Heiken Ashi.mq4
+Indicators/Ichimoku.ex4
+Indicators/Ichimoku.mq4
+Indicators/MACD_Histogram.ex4
+Indicators/MACD_Histogram.mq4
+Indicators/MTF HGI Bars TD.ex4
+Indicators/MTF HGI Bars TD.mq4
+Indicators/Momentum.ex4
+Indicators/Momentum.mq4
+Indicators/NonLagZigZag_v4.1_Mod_MTF_NMC.ex4
+Indicators/OsMA.ex4
+Indicators/OsMA.mq4
+Indicators/Parabolic.ex4
+Indicators/Parabolic.mq4
+Indicators/Peak HiLo indicator.ex4
+Indicators/Peak HiLo indicator.mq4
+Indicators/PeakHiLoFIBS.ex4
+Indicators/PeakHiLoFIBS.mq4
+Indicators/RSI.ex4
+Indicators/RSI.mq4
+Indicators/RSI Cross TD V2.ex4
+Indicators/RSI Cross TD V2.mq4
+Indicators/SS_SupportResistance_v07.ex4
+Indicators/SS_SupportResistance_v07.mq4
+Indicators/STO7 D1 MA TREND 10 SMA LWMA TD.ex4
+Indicators/STO7 D1 MA TREND 10 SMA LWMA TD.mq4
+Indicators/Spread.ex4
+Indicators/Spread.mq4
+Indicators/Stochastic.ex4
+Indicators/Stochastic.mq4
+Indicators/Stochastic color mtf.ex4
+Indicators/Stochastic color mtf.mq4
+Indicators/TradeChart2.ex4
+Indicators/TradeReport.ex4
+Indicators/TradeReport.mq4
+Indicators/VolatilityChart.ex4
+Indicators/YYZ.ex4
+Indicators/ZigZag.ex4
+Indicators/ZigZag.mq4
+Indicators/mqlcache.dat
+Indicators/stochastic_mtf.ex4
+Indicators/stochastic_mtf.mq4
+Indicators/Examples/SimplePanel/PanelDialog.mqh
+Indicators/Examples/SimplePanel/SimplePanel.ex4
+Indicators/Examples/SimplePanel/SimplePanel.mq4
+Libraries/FXBlueQuickChannel.dll
+Libraries/LibSSSRv5.ex4
+Libraries/LibSSSRv5.mq4
+Libraries/MT4iQuickChannel.dll
+Libraries/MTILive.dll
+Libraries/Myfxbook.dll
+Libraries/hgi_lib.ex4
+Libraries/mqlcache.dat
+Libraries/stdlib.ex4
+Libraries/stdlib.mq4
+Logs/20181013.log
+Logs/20181014.log
+Presets/D_v.2.5.x_DRIP_Group_1 Rev. 4 with Outliers.set
+Presets/D_v.2.5.x_DRIP_Group_2 Rev. 4 with Outliers.set
+Presets/D_v.2.5.x_DRIP_Group_3 Rev. 4 with Outliers.set
+Presets/D_v.2.5.x_DRIP_Group_4 Rev. 4 with Outliers.set
+Presets/D_v.2.5.x_DRIP_Group_5 Rev. 4 with Outliers.set
+Presets/D_v.2.5.x_DRIP_Group_6 Rev. 4 with Outliers.set
+Presets/D_v.2.5.x_DRIP_Group_7 Rev. 4 with Outliers.set
+Presets/D_v.2.5.x_DRIP_Group_8 Rev. 4 with Outliers.set
+Presets/HGCB BOD.set
+Presets/HGCB BOD2.set
+Scripts/Charts Into Alphabetical Order script.ex4
+Scripts/Charts Into Alphabetical Order script.mq4
+Scripts/EAG Dynamo GEC-GPG Monitor Global Variable Reset v.1.4.ex4
+Scripts/Entropy Magneto - Session Nuker Script v.4.5.ex4
+Scripts/ForceLoadHistoricalData_mod_onlyM1.ex4
+Scripts/ForceLoadHistoricalData_mod_onlyM1.mq4
+Scripts/PeriodConverter.mq4
+Scripts/close all.ex4
+Scripts/close all.mq4
+Scripts/mqlcache.dat
+Scripts/Examples/DLL/DLLSample.cpp
+Scripts/Examples/DLL/DLLSample.def
+Scripts/Examples/DLL/DLLSample.vcxproj
+Scripts/Examples/DLL/DLLSampleTester.ex4
+Scripts/Examples/DLL/DLLSampleTester.mq4
+Scripts/Examples/DLL/Libraries/DLLSample.dll
+Scripts/Examples/Pipes/PipeClient.ex4
+Scripts/Examples/Pipes/PipeClient.mq4
+Scripts/Examples/Pipes/PipeClientPure.ex4
+Scripts/Examples/Pipes/PipeClientPure.mq4
